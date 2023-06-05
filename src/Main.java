@@ -9,6 +9,7 @@ public class Main {
 
             System.out.println(counter.incrementAndGet() + ") " + obj);
             System.out.println("Ololo");
+            System.out.println("Commit 3");
         }
     }
 }

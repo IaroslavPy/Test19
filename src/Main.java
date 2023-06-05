@@ -8,6 +8,7 @@ public class Main {
         for (String obj: arrayString) {
 
             System.out.println(counter.incrementAndGet() + ") " + obj);
+            System.out.println("Ololo");
         }
     }
 }
